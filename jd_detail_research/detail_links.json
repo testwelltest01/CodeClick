@@ -1,0 +1,832 @@
+[
+  {
+    "text": "",
+    "href": "https://www.jobkorea.co.kr/",
+    "className": "min-w-[133px] flex-shrink-0"
+  },
+  {
+    "text": "회원가입/로그인",
+    "href": "https://www.jobkorea.co.kr/Login/Login_Tot.asp?rDBName=GG&re_url=%2FRecruit%2FGI_Read%2F49255374%3FOem_Code%3DC1%26logpath%3D1%26stext%3Dai%2Bengineer%26listno%3D1%26sc%3D630",
+    "className": "flex h-[40px] items-center justify-center gap-[4px] rounded-[10px] border border-solid border-gray-200 px-[12px] text-[14px] leading-[20px] text-brand-500"
+  },
+  {
+    "text": "JOB 찾기",
+    "href": "https://www.jobkorea.co.kr/recruit/joblist?menucode=local&localorder=1",
+    "className": "flex h-full items-center text-[18px] font-bold leading-[26px] text-gray-950"
+  },
+  {
+    "text": "합격축하금",
+    "href": "https://www.jobkorea.co.kr/OnePick/JobList?Ord=GcmCodeAmtDesc",
+    "className": "flex h-full items-center text-[18px] font-bold leading-[26px] text-gray-950"
+  },
+  {
+    "text": "공채정보",
+    "href": "https://www.jobkorea.co.kr/starter",
+    "className": "flex h-full items-center text-[18px] font-bold leading-[26px] text-gray-950"
+  },
+  {
+    "text": "신입·인턴",
+    "href": "https://www.jobkorea.co.kr/theme/entry-level-internship",
+    "className": "flex h-full items-center text-[18px] font-bold leading-[26px] text-gray-950"
+  },
+  {
+    "text": "기업·연봉",
+    "href": "https://www.jobkorea.co.kr/Review/Home",
+    "className": "flex h-full items-center text-[18px] font-bold leading-[26px] text-gray-950"
+  },
+  {
+    "text": "콘텐츠",
+    "href": "https://www.jobkorea.co.kr/goodjob/tip",
+    "className": "flex h-full items-center text-[18px] font-bold leading-[26px] text-gray-950"
+  },
+  {
+    "text": "취업톡톡",
+    "href": "https://www.jobkorea.co.kr/User/Qstn/Index",
+    "className": "flex h-full items-center text-[18px] font-bold leading-[26px] text-gray-950"
+  },
+  {
+    "text": "넥스트증권㈜",
+    "href": "https://www.jobkorea.co.kr/company/1435298/?C_IDX=2862",
+    "className": ""
+  },
+  {
+    "text": "기업정보 더보기",
+    "href": "https://www.jobkorea.co.kr/company/1435298/?C_IDX=2862",
+    "className": "flex items-center"
+  },
+  {
+    "text": "지도보기",
+    "href": "https://map.naver.com/?mapMode=0&dlevel=12&pinTitle=%EB%84%A5%EC%8A%A4%ED%8A%B8%EC%A6%9D%EA%B6%8C%E3%88%9C&lat=37.524610284943975&lng=126.92539229882783",
+    "className": ""
+  },
+  {
+    "text": "현재 가장 괜찮다고 생각하는 상품은 무엇입니까?",
+    "href": "https://www.jobkorea.co.kr/starter/review/view?C_Idx=2862&Ctgr_Code=5",
+    "className": "hover:underline"
+  },
+  {
+    "text": "1개 더보기",
+    "href": "https://www.jobkorea.co.kr/starter/review/view?C_Idx=2862&Ctgr_Code=5",
+    "className": ""
+  },
+  {
+    "text": "신입·인턴 채용관",
+    "href": "https://www.jobkorea.co.kr/Theme/entry-level-internship",
+    "className": ""
+  },
+  {
+    "text": "디자인 직무채용관",
+    "href": "https://www.jobkorea.co.kr/Theme/Design",
+    "className": ""
+  },
+  {
+    "text": "금융 전문가 채용관",
+    "href": "https://www.jobkorea.co.kr/Theme/special_finance",
+    "className": ""
+  },
+  {
+    "text": "IT 개발자 전문 채용관",
+    "href": "https://www.jobkorea.co.kr/Theme/it_developer",
+    "className": ""
+  },
+  {
+    "text": "경영·비즈니스기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000185",
+    "className": ""
+  },
+  {
+    "text": "사업기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000185&dkwrd=10001851569",
+    "className": ""
+  },
+  {
+    "text": "데이터분석",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000185&dkwrd=10001852949",
+    "className": ""
+  },
+  {
+    "text": "브랜드기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000185&dkwrd=100018547580972",
+    "className": ""
+  },
+  {
+    "text": "연구기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000185&dkwrd=100018547641479",
+    "className": ""
+  },
+  {
+    "text": "마케팅기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000187",
+    "className": ""
+  },
+  {
+    "text": "시장분석",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000187&dkwrd=10001871725",
+    "className": ""
+  },
+  {
+    "text": "시장조사",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000187&dkwrd=10001871726",
+    "className": ""
+  },
+  {
+    "text": "데이터분석",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000187&dkwrd=10001872949",
+    "className": ""
+  },
+  {
+    "text": "브랜드기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000187&dkwrd=100018747580972",
+    "className": ""
+  },
+  {
+    "text": "전략기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000187&dkwrd=100018747687905",
+    "className": ""
+  },
+  {
+    "text": "콘텐츠기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000187&dkwrd=100018747748312",
+    "className": ""
+  },
+  {
+    "text": "사무담당자",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000192",
+    "className": ""
+  },
+  {
+    "text": "문서관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000192&dkwrd=10001921397",
+    "className": ""
+  },
+  {
+    "text": "문서작성",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000192&dkwrd=10001921399",
+    "className": ""
+  },
+  {
+    "text": "자료조사",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000192&dkwrd=100019247678835",
+    "className": ""
+  },
+  {
+    "text": "변호사",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000197",
+    "className": ""
+  },
+  {
+    "text": "특허담당",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000197&dkwrd=100019747755893",
+    "className": ""
+  },
+  {
+    "text": "송무담당",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000197&dkwrd=100019748330332",
+    "className": ""
+  },
+  {
+    "text": "컴플라이언스",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000197&dkwrd=100019747746023",
+    "className": ""
+  },
+  {
+    "text": "상표담당",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000197&dkwrd=100019747592190",
+    "className": ""
+  },
+  {
+    "text": "사내변호사",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000197&dkwrd=100019747584408",
+    "className": ""
+  },
+  {
+    "text": "지적재산권",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000197&dkwrd=10001972256",
+    "className": ""
+  },
+  {
+    "text": "저작권",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000197&dkwrd=10001972117",
+    "className": ""
+  },
+  {
+    "text": "소송·민사·등기",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000197&dkwrd=10001971658",
+    "className": ""
+  },
+  {
+    "text": "공증",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000197&dkwrd=10001971135",
+    "className": ""
+  },
+  {
+    "text": "인사담당자",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000201",
+    "className": ""
+  },
+  {
+    "text": "인사기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000201&dkwrd=10002012010",
+    "className": ""
+  },
+  {
+    "text": "인사교육",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000201&dkwrd=100020147670629",
+    "className": ""
+  },
+  {
+    "text": "인사행정",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000201&dkwrd=100020147672560",
+    "className": ""
+  },
+  {
+    "text": "HRD·HRM",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000202",
+    "className": ""
+  },
+  {
+    "text": "교육기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000202&dkwrd=10002021161",
+    "className": ""
+  },
+  {
+    "text": "급여관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000202&dkwrd=10002021205",
+    "className": ""
+  },
+  {
+    "text": "면접·채용",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000202&dkwrd=10002023053",
+    "className": ""
+  },
+  {
+    "text": "평가·보상",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000202&dkwrd=10002023054",
+    "className": ""
+  },
+  {
+    "text": "복리후생",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000202&dkwrd=100020247576763",
+    "className": ""
+  },
+  {
+    "text": "조직문화",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000202&dkwrd=100020247699050",
+    "className": ""
+  },
+  {
+    "text": "브랜드마케터",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000217",
+    "className": ""
+  },
+  {
+    "text": "라이센싱",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000217&dkwrd=10002171321",
+    "className": ""
+  },
+  {
+    "text": "브랜딩",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000217&dkwrd=10002171549",
+    "className": ""
+  },
+  {
+    "text": "시장분석",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000217&dkwrd=10002171725",
+    "className": ""
+  },
+  {
+    "text": "언론홍보",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000217&dkwrd=10002171808",
+    "className": ""
+  },
+  {
+    "text": "기업홍보",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000217&dkwrd=100021747523938",
+    "className": ""
+  },
+  {
+    "text": "이벤트기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000217&dkwrd=100021747664004",
+    "className": ""
+  },
+  {
+    "text": "설문·리서치",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000223",
+    "className": ""
+  },
+  {
+    "text": "시장분석",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000223&dkwrd=10002231725",
+    "className": ""
+  },
+  {
+    "text": "시장조사",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000223&dkwrd=10002231726",
+    "className": ""
+  },
+  {
+    "text": "통계·분석",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000223&dkwrd=10002233043",
+    "className": ""
+  },
+  {
+    "text": "프론트엔드개발자",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000230",
+    "className": ""
+  },
+  {
+    "text": "GUI",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000230&dkwrd=10002302681",
+    "className": ""
+  },
+  {
+    "text": "반응형웹",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000230&dkwrd=100023047566252",
+    "className": ""
+  },
+  {
+    "text": "인터페이스",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000230&dkwrd=100023047670972",
+    "className": ""
+  },
+  {
+    "text": "시스템엔지니어",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000233",
+    "className": ""
+  },
+  {
+    "text": "네트워크관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000233&dkwrd=10002331245",
+    "className": ""
+  },
+  {
+    "text": "서버구축",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000233&dkwrd=10002331615",
+    "className": ""
+  },
+  {
+    "text": "시스템분석",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000233&dkwrd=10002331719",
+    "className": ""
+  },
+  {
+    "text": "시스템설계",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000233&dkwrd=10002331720",
+    "className": ""
+  },
+  {
+    "text": "시스템운영",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000233&dkwrd=10002331723",
+    "className": ""
+  },
+  {
+    "text": "펌웨어",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000233&dkwrd=10002332423",
+    "className": ""
+  },
+  {
+    "text": "서버관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000233&dkwrd=100023347599554",
+    "className": ""
+  },
+  {
+    "text": "네트워크엔지니어",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000234",
+    "className": ""
+  },
+  {
+    "text": "네트워크관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000234&dkwrd=10002341245",
+    "className": ""
+  },
+  {
+    "text": "시스템운영",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000234&dkwrd=10002341723",
+    "className": ""
+  },
+  {
+    "text": "DBA",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000235",
+    "className": ""
+  },
+  {
+    "text": "모델링",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000235&dkwrd=10002351367",
+    "className": ""
+  },
+  {
+    "text": "데이터마이닝",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000235&dkwrd=10002353018",
+    "className": ""
+  },
+  {
+    "text": "OLAP개발자",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000235&dkwrd=10002353035",
+    "className": ""
+  },
+  {
+    "text": "데이터관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000235&dkwrd=100023547534925",
+    "className": ""
+  },
+  {
+    "text": "DBMS",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000235&dkwrd=100023547802718",
+    "className": ""
+  },
+  {
+    "text": "DB튜닝",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000235&dkwrd=100023547804194",
+    "className": ""
+  },
+  {
+    "text": "DW모델러",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000235&dkwrd=100023547809696",
+    "className": ""
+  },
+  {
+    "text": "데이터엔지니어",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000236",
+    "className": ""
+  },
+  {
+    "text": "빅데이터",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000236&dkwrd=10002362938",
+    "className": ""
+  },
+  {
+    "text": "데이터레이크",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000236&dkwrd=100023647536046",
+    "className": ""
+  },
+  {
+    "text": "데이터파이프라인",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000236&dkwrd=100023649583433",
+    "className": ""
+  },
+  {
+    "text": "보안엔지니어",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000238",
+    "className": ""
+  },
+  {
+    "text": "네트워크관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000238&dkwrd=10002381245",
+    "className": ""
+  },
+  {
+    "text": "방화벽",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000238&dkwrd=10002381454",
+    "className": ""
+  },
+  {
+    "text": "보안관제",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000238&dkwrd=10002381513",
+    "className": ""
+  },
+  {
+    "text": "정보보안",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000238&dkwrd=10002382167",
+    "className": ""
+  },
+  {
+    "text": "암호화폐",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000238&dkwrd=100023847632735",
+    "className": ""
+  },
+  {
+    "text": "핀테크",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000238&dkwrd=100023847769041",
+    "className": ""
+  },
+  {
+    "text": "소프트웨어개발자",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000239",
+    "className": ""
+  },
+  {
+    "text": "시스템분석",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000239&dkwrd=10002391719",
+    "className": ""
+  },
+  {
+    "text": "시스템설계",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000239&dkwrd=10002391720",
+    "className": ""
+  },
+  {
+    "text": "정보보안",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000239&dkwrd=10002392167",
+    "className": ""
+  },
+  {
+    "text": "아키텍처",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000239&dkwrd=100023947630117",
+    "className": ""
+  },
+  {
+    "text": "클라이언트",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000239&dkwrd=100023947745518",
+    "className": ""
+  },
+  {
+    "text": "SI개발",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000239&dkwrd=100023947842363",
+    "className": ""
+  },
+  {
+    "text": "AI/ML엔지니어",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000242",
+    "className": ""
+  },
+  {
+    "text": "모델링",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000242&dkwrd=10002421367",
+    "className": ""
+  },
+  {
+    "text": "딥러닝",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000242&dkwrd=10002422941",
+    "className": ""
+  },
+  {
+    "text": "자연어처리(NLP)",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000242&dkwrd=10002422950",
+    "className": ""
+  },
+  {
+    "text": "음성인식",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000242&dkwrd=100024247665840",
+    "className": ""
+  },
+  {
+    "text": "이미지프로세싱",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000242&dkwrd=100024247667794",
+    "className": ""
+  },
+  {
+    "text": "인공지능",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000242&dkwrd=100024247672388",
+    "className": ""
+  },
+  {
+    "text": "챗봇",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000242&dkwrd=100024247731447",
+    "className": ""
+  },
+  {
+    "text": "클라우드엔지니어",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000244",
+    "className": ""
+  },
+  {
+    "text": "네트워크관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000244&dkwrd=10002441245",
+    "className": ""
+  },
+  {
+    "text": "클라우드개발자",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000244&dkwrd=10002443034",
+    "className": ""
+  },
+  {
+    "text": "클라우드아키텍트",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000244&dkwrd=100024447745512",
+    "className": ""
+  },
+  {
+    "text": "솔루션스아키텍트",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000244&dkwrd=100024449598253",
+    "className": ""
+  },
+  {
+    "text": "웹퍼블리셔",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000245",
+    "className": ""
+  },
+  {
+    "text": "웹마스터",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000245&dkwrd=10002451925",
+    "className": ""
+  },
+  {
+    "text": "웹표준·웹접근성",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000245&dkwrd=100024549534519",
+    "className": ""
+  },
+  {
+    "text": "QA",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000247",
+    "className": ""
+  },
+  {
+    "text": "검증",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000247&dkwrd=10002471062",
+    "className": ""
+  },
+  {
+    "text": "웹마스터",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000247&dkwrd=10002471925",
+    "className": ""
+  },
+  {
+    "text": "테스터",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000247&dkwrd=10002472368",
+    "className": ""
+  },
+  {
+    "text": "웹디자이너",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000255",
+    "className": ""
+  },
+  {
+    "text": "UI·UX기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000255&dkwrd=100025547852836",
+    "className": ""
+  },
+  {
+    "text": "UI·UX디자이너",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000256",
+    "className": ""
+  },
+  {
+    "text": "UI·UX기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000256&dkwrd=100025647852836",
+    "className": ""
+  },
+  {
+    "text": "해외영업",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000279",
+    "className": ""
+  },
+  {
+    "text": "해외마케팅",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000279&dkwrd=10002792520",
+    "className": ""
+  },
+  {
+    "text": "금융사무",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000289",
+    "className": ""
+  },
+  {
+    "text": "거래처관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000289&dkwrd=10002891039",
+    "className": ""
+  },
+  {
+    "text": "고객관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000289&dkwrd=10002891095",
+    "className": ""
+  },
+  {
+    "text": "외환관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000289&dkwrd=10002891888",
+    "className": ""
+  },
+  {
+    "text": "입출금관리",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000289&dkwrd=10002892069",
+    "className": ""
+  },
+  {
+    "text": "채권",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000289&dkwrd=10002892275",
+    "className": ""
+  },
+  {
+    "text": "퇴직연금",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000289&dkwrd=10002892395",
+    "className": ""
+  },
+  {
+    "text": "금융상품기획",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000289&dkwrd=100028947517334",
+    "className": ""
+  },
+  {
+    "text": "AI기획자",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000414",
+    "className": ""
+  },
+  {
+    "text": "AI사업전략",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=duty&duty=1000415",
+    "className": ""
+  },
+  {
+    "text": "서울>영등포구",
+    "href": "https://www.jobkorea.co.kr/Recruit/JobList?menucode=local&local=I200",
+    "className": ""
+  },
+  {
+    "text": "불법/허위/과장/오류 신고",
+    "href": "https://www.jobkorea.co.kr/help/inquiry?ctgrNo=603&giNo=50965796&coMemType=C&gNo=49255374",
+    "className": ""
+  },
+  {
+    "text": "주식회사 핀크",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/21341434?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "씨메스로보틱스㈜",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/28940828?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "이지케어텍㈜",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/215405?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "신라에이치엠㈜",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/28775067?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "㈜스노우온카드",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/23715473?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "(주)섹타나인",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/12967077?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "㈜파고네트웍스",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/29754709?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "㈜코드박스",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/36851730?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "㈜에이블리코퍼레이션",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/17295765?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "다올투자증권㈜",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/247188?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "㈜소노인터내셔널",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/55717?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "㈜비지에프로지스",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/20925614?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "에스케이핀크스㈜",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/103716?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "동국제약㈜",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/242418?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "드림씨아이에스",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/24630972?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "㈜NE능률",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/3690?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "차병원·바이오그룹",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/20537194?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "신성통상㈜",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/394022?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "한미그룹",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/198704?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "㈜동성모터스",
+    "href": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/17109603?Oem_Code=C1&sc=7",
+    "className": "max-w-[60%] overflow-hidden text-ellipsis whitespace-nowrap"
+  },
+  {
+    "text": "",
+    "href": "https://tacademy.skplanet.com/front/customer/viewNotice.do?seq=869&topYn=N&topYn=N&utm_source=Korcham&utm_medium=banner&utm_campaign=asac_apply&utm_id=asac&utm_content=aiDE",
+    "className": "relative flex items-center justify-center overflow-hidden rounded-[8px] border-0 p-0"
+  }
+]

@@ -1,5 +1,5 @@
-﻿detail_title,company,url,iframe_jd_text,main_jd_text,json_ld,status,error
-,넥스트증권㈜,https://www.jobkorea.co.kr/Recruit/GI_Read/49255374?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=1&sc=630,,"모집요강
+﻿company,url,iframe_jd_text,iframe_image_urls,iframe_link_alts,iframe_link_urls,main_jd_text,json_ld,status,error
+넥스트증권㈜,https://www.jobkorea.co.kr/Recruit/GI_Read/49255374?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=1&sc=630,,,,,"모집요강
 모집분야
 홈페이지 지원
 모집인원
@@ -37,7 +37,7 @@ API, C, C++, Docker, JAVA, Jeus, Kafka, Kotlin, kubernetes, NoSQL, Oracle, Postg
 
 접수기간 · 방법
 남은기간
-5일 03:56:14
+5일 02:47:54
 시작일
 2026.05.29(금)
 마감일
@@ -98,7 +98,7 @@ API, C, C++, Docker, JAVA, Jeus, Kafka, Kotlin, kubernetes, NoSQL, Oracle, Postg
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49255374""
 }",success,
-,(재)경기도일자리재단,https://www.jobkorea.co.kr/Recruit/GI_Read/48904380?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=2&sc=630,"경기청년 일자리 매치업 1차 채용공고
+(재)경기도일자리재단,https://www.jobkorea.co.kr/Recruit/GI_Read/48904380?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=2&sc=630,"경기청년 일자리 매치업 1차 채용공고
 	모집부문
 모집부문 정보
 기업명(국문)	기업소개	모집분야	지역	지원하기
@@ -469,7 +469,7 @@ SNS 채널관리	고양시
 이룸손해사정주식회사	보험금의 손해사정 및 보험금 심사	보험금 사고접수, 보험금 심사	의정부시	
 참참바이오 주식회사	사료 및 원료 E-commerce/ 사료 및 원료개발/
 AI 농장운영 경영솔루션 개발 및 공급/ 해외시장 개발	영업 총괄	화성시	
-주식회사 라스코리아	수질, 토양 등 자동화측정 장치 취급	경영지원	용인시","모집요강
+주식회사 라스코리아	수질, 토양 등 자동화측정 장치 취급	경영지원	용인시",,,,"모집요강
 모집분야
 홈페이지 지원
 모집인원
@@ -495,7 +495,7 @@ Android, C, C#, C++, PHP, Python, Linux, Photoshop, 일본어, 1종보통운전�
 
 접수기간 · 방법
 남은기간
-70일 03:56:07
+70일 02:47:43
 시작일
 2026.04.07(화)
 마감일
@@ -555,7 +555,7 @@ Android, C, C#, C++, PHP, Python, Linux, Photoshop, 일본어, 1종보통운전�
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/48904380""
 }",success,
-,온코리아 유한회사,https://www.jobkorea.co.kr/Recruit/GI_Read/49141373?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=3&sc=630,"[온코리아] 26년 상반기 신입/경력 채용
+온코리아 유한회사,https://www.jobkorea.co.kr/Recruit/GI_Read/49141373?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=3&sc=630,"[온코리아] 26년 상반기 신입/경력 채용
 
 ""On은 움직임을 통해 모든 이들의 열정과 잠재력을 깨우겠다는 비전 아래 2010년 스위스 알프스에서 탄생한 브랜드로,
 오늘날까지도 그 사명은 변함없이 On을 이끄는 원동력으로 작용하고 있습니다.
@@ -1112,7 +1112,7 @@ Lightspray 제조 팀 - 산업화 엔지니어 > 부산시 사상구
 온 코리아 페이지 온 소개 페이지 온 커리어 페이지
 
 	유의사항
-허위사실이 발견될 경우 채용이 취소될 수 있습니다.","모집요강
+허위사실이 발견될 경우 채용이 취소될 수 있습니다.",,,,"모집요강
 모집분야
 홈페이지 지원
 모집인원
@@ -1151,7 +1151,7 @@ Lightspray 제조 팀 - 산업화 엔지니어 > 부산시 사상구
 
 접수기간 · 방법
 남은기간
-35일 03:56:01
+35일 02:47:32
 시작일
 2026.05.11(월)
 마감일
@@ -1209,7 +1209,7 @@ Lightspray 제조 팀 - 산업화 엔지니어 > 부산시 사상구
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49141373""
 }",success,
-,㈜딥오토,https://www.jobkorea.co.kr/Recruit/GI_Read/49266123?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=4&sc=630,"“AI가 모든 것을 바꾸는 지금, 딥오토는 엔지니어링 설계, 제조, 건설 산업의 패러다임을 뒤바꿀 선봉장입니다.
+,https://www.jobkorea.co.kr/Recruit/GI_Read/49266123?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=4&sc=630,"“AI가 모든 것을 바꾸는 지금, 딥오토는 엔지니어링 설계, 제조, 건설 산업의 패러다임을 뒤바꿀 선봉장입니다.
 산업의 미래를 직접 설계할 당신을 기다립니다.”
  
 딥오토는 설계 도면, 기술 문서 등 산업 현장의 복잡한 비정형 데이터(CAD, PDF, 이미지 등)를 AI가 이해하고 처리할 수 있는
@@ -1303,7 +1303,7 @@ Hadoop, Spark, Databricks 등 빅데이터 처리 프레임워크 사용 경험
 
 * 면접일정은 추후 통보됩니다.
 	유의사항
-허위사실이 발견될 경우 채용이 취소될 수 있습니다.","모집요강
+허위사실이 발견될 경우 채용이 취소될 수 있습니다.",,,,"모집요강
 모집분야
 신입/경력 AI Engineer
 모집인원
@@ -1390,7 +1390,7 @@ Hadoop, Spark, Databricks 등 빅데이터 처리 프레임워크 사용 경험
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49266123""
 }",success,
-,㈜모스티소프트,https://www.jobkorea.co.kr/Recruit/GI_Read/49012293?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=5&sc=630,"(주)모스티소프트
+㈜모스티소프트,https://www.jobkorea.co.kr/Recruit/GI_Read/49012293?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=5&sc=630,"(주)모스티소프트
 
 AI 엔지니어 채용
 
@@ -1432,7 +1432,7 @@ AI 엔지니어
 
 유의사항
 
-ㆍ허위사실이 발견될 경우 채용이 취소됩니다.","모집요강
+ㆍ허위사실이 발견될 경우 채용이 취소됩니다.",,,,"모집요강
 모집분야
 AI 엔지니어
 모집인원
@@ -1522,7 +1522,7 @@ AI 엔지니어
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49012293""
 }",success,
-,㈜딥오토,https://www.jobkorea.co.kr/Recruit/GI_Read/49071453?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=6&sc=630,"[신입(전환형 인턴)/경력] AI Engineer_Financial Services
+㈜딥오토,https://www.jobkorea.co.kr/Recruit/GI_Read/49071453?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=6&sc=630,"[신입(전환형 인턴)/경력] AI Engineer_Financial Services
 
 회사 소개
 
@@ -1592,7 +1592,7 @@ AI Engineer 포지션
 
 유의사항
 
-ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.","모집요강
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.",,,,"모집요강
 모집분야
 AI 개발자
 모집인원
@@ -1678,7 +1678,7 @@ AI 개발자
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49071453""
 }",success,
-,"주식회사 넥스인테크놀로지(NexIn Technology Co.,Ltd",https://www.jobkorea.co.kr/Recruit/GI_Read/49179812?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=7&sc=630,"주식회사 넥스인테크놀로지(NexIn Technology Co.,Ltd
+"주식회사 넥스인테크놀로지(NexIn Technology Co.,Ltd",https://www.jobkorea.co.kr/Recruit/GI_Read/49179812?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=7&sc=630,"주식회사 넥스인테크놀로지(NexIn Technology Co.,Ltd
 
 AI Application / AI Engineer (신입 및 경력 3년 이상)
 
@@ -1803,7 +1803,7 @@ Collaboration: Git, Slack, Notion
 
 유의사항
 
-ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.","모집요강
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.",,,,"모집요강
 모집분야
 AI Application/Engineer
 모집인원
@@ -1846,7 +1846,7 @@ Docker, Python, TypeScript, 풀스택, OCR, RAG, vlm
 
 접수기간 · 방법
 남은기간
-9일 03:55:34
+9일 02:46:51
 시작일
 2026.05.15(금)
 마감일
@@ -1908,7 +1908,7 @@ IT컨설팅
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49179812""
 }",success,
-,메가존클라우드㈜,https://www.jobkorea.co.kr/Recruit/GI_Read/48935872?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=8&sc=630,"포지션명	담당 업무	자격요건 및 우대사항
+메가존클라우드㈜,https://www.jobkorea.co.kr/Recruit/GI_Read/48935872?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=8&sc=630,"포지션명	담당 업무	자격요건 및 우대사항
 AI Architect
 
 (경력 10년 이상)
@@ -2219,7 +2219,7 @@ Private Cloud/On-Prem AI Product TA
 
 ※ 필요 시 레퍼런스 체크, 인성검사가 진행 될 수 있습니다.
 
-※ 주 근무지는 과천 본사이며, 사업부서에 따라 상세근무지가 달라질 수 있습니다.","모집요강
+※ 주 근무지는 과천 본사이며, 사업부서에 따라 상세근무지가 달라질 수 있습니다.",,,,"모집요강
 모집분야
 AI 전문 Engineer
 모집인원
@@ -2294,7 +2294,7 @@ AWS, Flask, JAVA, Kafka, kubernetes, Spark, SQL, Hive, 영어, DW
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/48935872""
 }",success,
-,㈜인투알,https://www.jobkorea.co.kr/Recruit/GI_Read/49298706?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=9&sc=630,"㈜인투알은 2002년에 설립된 회사로 고용노동부에서 선정한 강소기업입니다.
+㈜인투알,https://www.jobkorea.co.kr/Recruit/GI_Read/49298706?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=9&sc=630,"㈜인투알은 2002년에 설립된 회사로 고용노동부에서 선정한 강소기업입니다.
 경기 김포시 양촌읍 황금로 273번길 14 (학운리)에 위치하고 있으며,
 ESS 전용랙, 통신장비용캐비넷랙, 통신랙, 서버랙제조판매사업을 하고 있습니다.
 
@@ -2957,7 +2957,7 @@ HVAC, 칠러 영업 경력자
 이력서 : 잡코리아 이력서
 	
 기타사항
-허위사실이 발견될 경우 채용이 취소될 수 있습니다.","모집요강
+허위사실이 발견될 경우 채용이 취소될 수 있습니다.",,,,"모집요강
 모집분야
 청라연구소-ESS시스템 엔지니어, 청라연구소-구조설계, 청라연구소-구조해석, 청라연구소-전기,전장설계(ESS), 청라연구소-개발관리, 청라연구소-개발구매, 청라연구소-인증대응엔지니어, 광양연구소-공정개발팀 양산파트, 광양연구소-공정개발팀 설계파트, 김포본사-전략구매팀-자재, 김포본사-인사총무팀, 청라-영업팀, 청라-전략구매팀, 청라-재무회계팀, 순천플랜트-전략구매팀-자재, 김포본사-미래기획팀(총괄리더), 김포본사-미래기획팀(ERP실무자), 김포본사-미래기획팀(AI실무자), 김포본사-서비스지원팀, 김포본사,순천플랜트-품질기획팀, 순천플랜트-품질관리팀, 순천플랜트-생산관리팀EHS파트, (다츠에너지)가산연구소-기구개발팀, (다츠에너지)음성본사-총무팀, (다츠에너지)음성본사-구매/자재관리, (다츠에너지)음성본사-제조, (다츠에너지)광양플랜트-생산관리/총무, (벤티코어)김포본사-공조개발팀, (벤티코어)김포본사-기술개발지원팀, (벤티코어)김포본사-영업팀, (벤티코어)김포본사-회계/인사총무, (벤티코어)김포본사-전기기술자, (벤티코어)순천,광양-인사총무
 모집인원
@@ -3000,7 +3000,7 @@ Solidworks, AutoCAD, Excel
 
 접수기간 · 방법
 남은기간
-29일 03:55:22
+29일 02:46:30
 시작일
 2026.06.04(목)
 마감일
@@ -3059,7 +3059,7 @@ Solidworks, AutoCAD, Excel
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49298706""
 }",success,
-,리얼라이즈알엑스㈜,https://www.jobkorea.co.kr/Recruit/GI_Read/49132250?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=10&sc=630,"[Ultron WASM] AI 프롬프트 엔지니어 인턴 채용
+리얼라이즈알엑스㈜,https://www.jobkorea.co.kr/Recruit/GI_Read/49132250?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=10&sc=630,"[Ultron WASM] AI 프롬프트 엔지니어 인턴 채용
 
 리얼라이즈알엑스㈜는 2023년에 설립된 회사로 자본금 10억원, 매출액 100억, 사원수 100명 규모의 벤처기업입니다. 서울 마포구 동교동에 위치하고 있으며, 요트, 컴퍼니 빌딩, 신사업 투자, 의류 사업, 소프트웨어/마케팅 대행, 다중 브랜드 총판 을 하고 있습니다.
 
@@ -3118,7 +3118,7 @@ Ultron WASM 유튜브 : https://www.youtube.com/@UltronWASM
 
 유의사항
 
-ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.","모집요강
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.",,,,"모집요강
 모집분야
 AI 프롬프트 엔지니어
 모집인원
@@ -3153,7 +3153,7 @@ Illustrator, Photoshop, 애프터이펙트, 파이널컷, 프리미어
 
 접수기간 · 방법
 남은기간
-32일 03:55:14
+32일 02:46:20
 시작일
 2026.05.08(금)
 마감일
@@ -3225,7 +3225,7 @@ Illustrator, Photoshop, 애프터이펙트, 파이널컷, 프리미어
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49132250""
 }",success,
-,㈜블록에스,https://www.jobkorea.co.kr/Recruit/GI_Read/49083311?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=11&sc=630,"AI-Native Engineer
+㈜블록에스,https://www.jobkorea.co.kr/Recruit/GI_Read/49083311?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=11&sc=630,"AI-Native Engineer
 
 ㈜블록에스는 2022년에 설립된 회사로 사원수 20명 규모의 중소기업입니다. 서울 영등포구 의사당대로 83 (여의도동, 오투타워)에 위치하고 있으며, 소프트웨어/ 플랫폼사업을 하고 있습니다.
 
@@ -3332,7 +3332,7 @@ Illustrator, Photoshop, 애프터이펙트, 파이널컷, 프리미어
 
 유의사항
 
-ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.","모집요강
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.",,,,"모집요강
 모집분야
 AI-Native Engineer
 모집인원
@@ -3418,7 +3418,7 @@ cursor, Copilot, Claude code, Codex
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49083311""
 }",success,
-,㈜이너버즈,https://www.jobkorea.co.kr/Recruit/GI_Read/49274752?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=12&sc=630,,"모집요강
+㈜이너버즈,https://www.jobkorea.co.kr/Recruit/GI_Read/49274752?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=12&sc=630,,,,,"모집요강
 모집분야
 Full-stack Engineer
 모집인원
@@ -3512,11 +3512,11 @@ kubernetes, PostgreSQL, React, Spring Boot, Nest.js, Next.js, Newrelic, Claude c
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49274752""
 }",success,
-,슈어소프트테크㈜,https://www.jobkorea.co.kr/Recruit/GI_Read/48939498?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=13&sc=630,"모빌리티솔루션실 지원하기우주항공 국방기술실 지원하기
+슈어소프트테크㈜,https://www.jobkorea.co.kr/Recruit/GI_Read/48939498?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=13&sc=630,"모빌리티솔루션실 지원하기우주항공 국방기술실 지원하기
 
 E-모빌리티시스템실 지원하기Automotive시스템실 지원하기
 
-AI시험 인증2팀 지원하기AX사업 개발1팀 지원하기AX사업 개발2팀 지원하기","모집요강
+AI시험 인증2팀 지원하기AX사업 개발1팀 지원하기AX사업 개발2팀 지원하기",,,,"모집요강
 모집분야
 모빌리티솔루션실, (마감)모빌리티 SW전략2팀, (마감)모빌리티 솔루션4팀, 우주항공 국방기술실, AI시험 인증2팀, AX사업 개발1팀, AX사업 개발2팀, E-모빌리티시스템실, Automotive시스템실
 모집인원
@@ -3548,7 +3548,7 @@ IT계열
 
 접수기간 · 방법
 남은기간
-2일 03:54:55
+2일 02:45:49
 시작일
 2026.04.08(수)
 마감일
@@ -3610,7 +3610,7 @@ IT계열
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/48939498""
 }",success,
-,㈜나래트랜드,https://www.jobkorea.co.kr/Recruit/GI_Read/49149292?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=14&sc=630,"스마트팜 AI·IoT 현장 기술 엔지니어              (H/W·S/W)
+㈜나래트랜드,https://www.jobkorea.co.kr/Recruit/GI_Read/49149292?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=14&sc=630,"스마트팜 AI·IoT 현장 기술 엔지니어              (H/W·S/W)
 
 (주)나래트랜드는 4차 산업혁명에 발맞추어 인공지능(AI)과 사물인터넷(IoT)을 융합한 딥테크 기반 과학농업으로 자동제어, 원격제어, 스마트관제 등  빅데이터를 활용하여 ICT 융.복합 농업시스템을 개발 · 제공 하고 있습니다.  
 
@@ -3659,7 +3659,7 @@ IT계열
 
 유의사항
 
-ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.","모집요강
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.",,,,"모집요강
 모집분야
 AI IoT 현장 기술 엔지니어 HW SW
 모집인원
@@ -3763,7 +3763,7 @@ AWS, Docker, Git, Javascript, Node.js, TypeScript, Linux, RS-485
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49149292""
 }",success,
-,하이브비젼,https://www.jobkorea.co.kr/Recruit/GI_Read/49031276?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=15&sc=630,"㈜하이브비젼 2026년 신입/경력 모집공고
+하이브비젼,https://www.jobkorea.co.kr/Recruit/GI_Read/49031276?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=15&sc=630,"㈜하이브비젼 2026년 신입/경력 모집공고
 
 	
 모집 내용
@@ -3844,7 +3844,7 @@ Machine Vision Set up, CS
 홈페이지 : http://www.hivevision.co.kr
 문의처 : 031-8084-3376
 
-홈페이지 바로가기","모집요강
+홈페이지 바로가기",,,,"모집요강
 모집분야
 S/W개발, 기술영업, 기술지원
 모집인원
@@ -3876,7 +3876,7 @@ C#, LabVIEW, Ai
 
 접수기간 · 방법
 남은기간
-16일 03:54:42
+16일 02:45:30
 시작일
 2026.04.22(수)
 마감일
@@ -3934,7 +3934,7 @@ C#, LabVIEW, Ai
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49031276""
 }",success,
-,㈜플레이웍스,https://www.jobkorea.co.kr/Recruit/GI_Read/49265521?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=16&sc=630,,"모집요강
+㈜플레이웍스,https://www.jobkorea.co.kr/Recruit/GI_Read/49265521?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=16&sc=630,,,,,"모집요강
 모집분야
 데이터엔지니어 신입/경력
 모집인원
@@ -3975,7 +3975,7 @@ API, C++, Django, MariaDB, MySQL, NoSQL, Python, bigdata
 
 접수기간 · 방법
 남은기간
-52일 03:54:35
+52일 02:45:20
 시작일
 2026.05.28(목)
 마감일
@@ -4026,7 +4026,7 @@ API, C++, Django, MariaDB, MySQL, NoSQL, Python, bigdata
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49265521""
 }",success,
-,㈜엠엑스로보틱스,https://www.jobkorea.co.kr/Recruit/GI_Read/49248917?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=17&sc=630,"(주)엠엑스로보틱스 
+㈜엠엑스로보틱스,https://www.jobkorea.co.kr/Recruit/GI_Read/49248917?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=17&sc=630,"(주)엠엑스로보틱스 
 
 반도체 CS (이천) 담당자 채용의 건
 
@@ -4077,7 +4077,7 @@ API, C++, Django, MariaDB, MySQL, NoSQL, Python, bigdata
 
 ○ 각 전형 결과 및 발표는 e-mail 또는 SMS 등을 통해 공지되니 정확하게 기재하여 주시기 바랍니다.
 
-○ 입사지원서 내용이 사실과 다를 경우 입사가 취소될 수 있습니다.","모집요강
+○ 입사지원서 내용이 사실과 다를 경우 입사가 취소될 수 있습니다.",,,,"모집요강
 모집분야
 반도체 CS
 모집인원
@@ -4105,7 +4105,7 @@ API, C++, Django, MariaDB, MySQL, NoSQL, Python, bigdata
 
 접수기간 · 방법
 남은기간
-50일 03:54:29
+50일 02:45:10
 시작일
 2026.05.26(화)
 마감일
@@ -4168,9 +4168,9 @@ API, C++, Django, MariaDB, MySQL, NoSQL, Python, bigdata
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49248917""
 }",success,
-,에스넷시스템㈜,https://www.jobkorea.co.kr/Recruit/GI_Read/49190349?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=18&sc=630,"https://blog.naver.com/snet_systems
+에스넷시스템㈜,https://www.jobkorea.co.kr/Recruit/GI_Read/49190349?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=18&sc=630,"https://blog.naver.com/snet_systems
 
-https://www.youtube.com/@SNETGROUP","모집요강
+https://www.youtube.com/@SNETGROUP",,,,"모집요강
 모집분야
 개발 담당자
 모집인원
@@ -4210,7 +4210,7 @@ https://www.youtube.com/@SNETGROUP","모집요강
 
 접수기간 · 방법
 남은기간
-2일 03:54:22
+2일 02:45:01
 시작일
 2026.05.18(월)
 마감일
@@ -4272,7 +4272,7 @@ https://www.youtube.com/@SNETGROUP","모집요강
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49190349""
 }",success,
-,㈜누리플렉스,https://www.jobkorea.co.kr/Recruit/GI_Read/49233143?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=19&sc=630,"[누리플렉스] R&D그룹 전략개발팀 인재 채용
+㈜누리플렉스,https://www.jobkorea.co.kr/Recruit/GI_Read/49233143?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=19&sc=630,"[누리플렉스] R&D그룹 전략개발팀 인재 채용
 
 포지션 및 자격요건
 
@@ -4327,7 +4327,7 @@ https://www.youtube.com/@SNETGROUP","모집요강
 
 ㆍ컨테이너 기반 개발/배포/운영 경험
 
-ㆍCI/CD 파이프라인 구축 경험","모집요강
+ㆍCI/CD 파이프라인 구축 경험",,,,"모집요강
 모집분야
 전략개발팀 인재 채용
 모집인원
@@ -4362,7 +4362,7 @@ Git, MySQL, PostgreSQL, RDBMS, RAG, CI/CD, Ai, 백엔드, 프론트엔드, LLM A
 
 접수기간 · 방법
 남은기간
-46일 03:54:16
+46일 02:44:52
 시작일
 2026.05.22(금)
 마감일
@@ -4422,7 +4422,7 @@ Git, MySQL, PostgreSQL, RDBMS, RAG, CI/CD, Ai, 백엔드, 프론트엔드, LLM A
   },
   ""url"": ""https://www.jobkorea.co.kr/Recruit/GI_Read/49233143""
 }",success,
-,㈜클라우드네트웍스,https://www.jobkorea.co.kr/Recruit/GI_Read/49146135?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=20&sc=630,"[클라우드네트웍스]
+㈜클라우드네트웍스,https://www.jobkorea.co.kr/Recruit/GI_Read/49146135?Oem_Code=C1&logpath=1&stext=ai+engineer&listno=20&sc=630,"[클라우드네트웍스]
 
 네트워크엔지니어(L4/L7) 모집 (신입/경력)
 
@@ -4514,7 +4514,7 @@ Git, MySQL, PostgreSQL, RDBMS, RAG, CI/CD, Ai, 백엔드, 프론트엔드, LLM A
 
 ㆍ사내 동호회 활동 지원 : 골프/영화감상/음악/볼링 동호회 등 운영 
 
-ㆍ이외 기타 동종업계 최고 수준의 다양한 복리후생 제도 보유 및 운영","모집요강
+ㆍ이외 기타 동종업계 최고 수준의 다양한 복리후생 제도 보유 및 운영",,,,"모집요강
 모집분야
 네트워크엔지니어
 모집인원

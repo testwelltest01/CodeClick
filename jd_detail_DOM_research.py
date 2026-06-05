@@ -1,4 +1,5 @@
 from playwright.sync_api import sync_playwright
+from urllib.parse import urljoin
 import csv
 import re
 import time
@@ -38,7 +39,6 @@ print(f"[INFO] 수집 대상 공고 수: {len(jobs)}")
 
 # 2. 출력 CSV 준비
 fieldnames = [
-    "detail_title",
     "company",
     "url",
     "iframe_jd_text",
@@ -69,18 +69,19 @@ with open(OUTPUT_CSV, "w", newline="", encoding="utf-8-sig") as f:
             print(job["url"])
 
             try:
-                page.goto(job["url"], wait_until="networkidle", timeout=60000)
-                page.wait_for_timeout(2000)
+                page.goto(job["url"], wait_until="domcontentloaded", timeout=60000)
 
+                try:
+                    page.wait_for_load_state("load", timeout=15000)
+                except Exception:
+                    pass
+
+                page.wait_for_timeout(2000)
+                
                 # 회사명
                 company = ""
                 if page.locator("h2").count() > 0:
                     company = page.locator("h2").first.inner_text().strip()
-
-                # 공고 제목
-                detail_title = ""
-                if page.locator("h1").count() > 0:
-                    detail_title = page.locator("h1").first.inner_text().strip()
 
                 # JSON-LD
                 json_ld = ""
@@ -89,13 +90,45 @@ with open(OUTPUT_CSV, "w", newline="", encoding="utf-8-sig") as f:
                 """)
                 json_ld = "\n".join(json_scripts).strip()
 
-                # iframe 안 상세 JD
+
+                # iframe 안 상세 JD 텍스트 수집
                 iframe_jd_text = ""
 
                 try:
-                    iframe_jd_text = page.frame_locator("iframe[title='상세 모집 요강']").locator("body").inner_text(timeout=10000)
-                except Exception:
-                    iframe_jd_text = ""
+                    iframe_src = ""
+
+                    if page.locator("iframe[title='상세 모집 요강']").count() > 0:
+                        iframe_src = page.locator("iframe[title='상세 모집 요강']").first.get_attribute("src")
+
+                    if iframe_src:
+                        iframe_url = urljoin(job["url"], iframe_src)
+
+                        iframe_page = browser.new_page(
+                            user_agent=(
+                                "Chrome/120.0.0.0 Safari/537.36"
+                            )
+                        )
+                        
+                        iframe_page.goto(iframe_url, wait_until="domcontentloaded", timeout=60000)
+
+                        try:
+                            iframe_page.wait_for_load_state("load", timeout=15000)
+                        except Exception:
+                            pass
+
+                        iframe_page.wait_for_timeout(3000)
+
+                        # iframe 안 텍스트
+                        try:
+                            iframe_jd_text = iframe_page.locator("body").inner_text(timeout=5000).strip()
+                        except Exception:
+                            iframe_jd_text = ""
+
+                        iframe_page.close()
+
+                except Exception as e:
+                    print("[IFRAME FAIL]", e)
+
 
                 # 바깥 정형 JD 영역
                 main_parts = []
@@ -123,7 +156,6 @@ with open(OUTPUT_CSV, "w", newline="", encoding="utf-8-sig") as f:
                 main_jd_text = re.sub(r"\n{3,}", "\n\n", main_jd_text).strip()
 
                 row = {
-                    "detail_title": detail_title,
                     "company": company,
                     "url": job["url"],
                     "iframe_jd_text": iframe_jd_text,
@@ -136,13 +168,12 @@ with open(OUTPUT_CSV, "w", newline="", encoding="utf-8-sig") as f:
                 writer.writerow(row)
                 f.flush()
 
-                print("[OK]", company, "/", detail_title)
+                print("[OK]", company)
                 print("iframe 길이:", len(iframe_jd_text))
                 print("main 길이:", len(main_jd_text))
 
             except Exception as e:
                 row = {
-                    "detail_title": "",
                     "company": "",
                     "url": job["url"],
                     "iframe_jd_text": "",

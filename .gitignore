@@ -1,2 +1,8 @@
 .venv/
 .env
+
+__pycache__/
+*.pyc
+
+postgres_data/
+qdrant_storage/

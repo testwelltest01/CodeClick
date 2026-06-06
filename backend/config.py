@@ -31,6 +31,7 @@ POSTGRES_URL = f"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST
 
 # LangChain 임베딩 설정
 EMBEDDING_MODEL = "text-embedding-3-small"  # OpenAI embedding
+# text-embedding-3-small의 embedding 차원 수
 EMBEDDING_DIMENSION = 1536
 
 # RAG 검색 설정

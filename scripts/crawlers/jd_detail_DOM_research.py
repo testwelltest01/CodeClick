@@ -1,11 +1,15 @@
 from playwright.sync_api import sync_playwright
 from urllib.parse import urljoin
+from pathlib import Path
 import csv
 import re
 import time
 
-INPUT_CSV = "jobkorea_page1_link_candidates.csv"
-OUTPUT_CSV = "jobkorea_jd_details.csv"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = PROJECT_ROOT / "data" / "raw"
+INPUT_CSV = DATA_DIR / "jobkorea_page1_link_candidates.csv"
+OUTPUT_CSV = DATA_DIR / "jobkorea_jd_details.csv"
+DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 # 1. 입력 CSV에서 공고 URL 리스트 읽기
 jobs = []

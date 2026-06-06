@@ -4,9 +4,10 @@ import json
 import re
 from pathlib import Path
 
-INPUT_CSV = "jobkorea_page1_link_candidates.csv"
-OUTPUT_DIR = Path("jd_detail_research")
-OUTPUT_DIR.mkdir(exist_ok=True)
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+INPUT_CSV = PROJECT_ROOT / "data" / "raw" / "jobkorea_page1_link_candidates.csv"
+OUTPUT_DIR = PROJECT_ROOT / "data" / "research" / "jd_detail"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def read_first_job_url(csv_path: str):
@@ -28,7 +29,7 @@ def clean_text(text: str) -> str:
     return text.strip()
 
 
-title, url = read_first_job_url(INPUT_CSV)
+title, url = read_first_job_url(str(INPUT_CSV))
 
 print("[TARGET]")
 print("title:", title)

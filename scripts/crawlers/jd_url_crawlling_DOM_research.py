@@ -2,8 +2,12 @@
 
 from playwright.sync_api import sync_playwright
 import pandas as pd
+from pathlib import Path
 
 URL = "https://www.jobkorea.co.kr/Search?stext=ai+engineer&tabType=recruit&careerType=1&edu=0&jobtype=1&Page_No=1"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+OUTPUT_CSV = PROJECT_ROOT / "data" / "raw" / "jobkorea_page1_link_candidates.csv"
+OUTPUT_CSV.parent.mkdir(parents=True, exist_ok=True)
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
@@ -28,7 +32,8 @@ with sync_playwright() as p:
     browser.close()
 
 df = pd.DataFrame(links)
-df.to_csv("jobkorea_page1_link_candidates.csv", index=False, encoding="utf-8-sig")
+df.to_csv(OUTPUT_CSV, index=False, encoding="utf-8-sig")
 
 print(df[["text", "href", "className"]].head(30))
 print("후보 개수:", len(df))
+print("저장 파일:", OUTPUT_CSV)

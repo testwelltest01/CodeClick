@@ -200,37 +200,6 @@ npm run dev
 http://localhost:5173
 ```
 
-## Docker 데이터 폴더
-
-아래 폴더는 Docker가 로컬 DB 데이터를 저장하기 위해 자동으로 생성합니다.
-
-```text
-postgres_data/
-qdrant_storage/
-```
-
-이 폴더들은 다른 로컬이나 배포 환경에서 Docker 실행 시 다시 생성되므로 Git에 올리지 않습니다.
-
-## 현재 주요 명령 요약
-
-Windows:
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-docker compose up -d
-python -m backend.db.init_qdrant
-python -m uvicorn backend.main:app --reload
-```
-
-macOS:
-
-```bash
-source .venv/bin/activate
-docker compose up -d
-python -m backend.db.init_qdrant
-python -m uvicorn backend.main:app --reload
-```
-
 ## 주의사항
 
 - `.env`는 개인 API key가 들어가므로 Git에 커밋하지 않습니다.

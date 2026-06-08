@@ -14,18 +14,18 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # OpenAI API
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Qdrant 벡터 DB 설정
-QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
+QDRANT_URL = os.getenv("QDRANT_URL")
 QDRANT_COLLECTION_NAME = "job_descriptions"
 
 # PostgreSQL 메타데이터 DB 설정
-POSTGRES_USER = os.getenv("POSTGRES_USER", "rag_user")
-POSTGRES_PASSWORD = os.getenv("POSTGRES_PASSWORD", "rag_pass")
-POSTGRES_HOST = os.getenv("POSTGRES_HOST", "localhost")
-POSTGRES_PORT = os.getenv("POSTGRES_PORT", "5432")
-POSTGRES_DB = os.getenv("POSTGRES_DB", "rag_db")
+POSTGRES_USER = os.getenv("POSTGRES_USER")
+POSTGRES_PASSWORD = os.getenv("POSTGRES_PASSWORD")
+POSTGRES_HOST = os.getenv("POSTGRES_HOST")
+POSTGRES_PORT = os.getenv("POSTGRES_PORT")
+POSTGRES_DB = os.getenv("POSTGRES_DB")
 
 POSTGRES_URL = f"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}"
 

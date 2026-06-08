@@ -9,8 +9,10 @@ from backend.config import (
 
 
 def init_qdrant_collection():
+    # Qdrant 서버에 연결합니다.
     client = QdrantClient(url=QDRANT_URL)
 
+    # 임베딩 벡터를 저장할 컬렉션을 생성합니다.
     client.create_collection(
         collection_name=QDRANT_COLLECTION_NAME,
         vectors_config=VectorParams(

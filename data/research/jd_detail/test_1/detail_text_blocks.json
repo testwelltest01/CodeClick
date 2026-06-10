@@ -1,0 +1,11 @@
+[
+  {
+    "index": 27,
+    "tag": "DIV",
+    "className": "ml-auto w-[960px] [grid-area:content]",
+    "id": "",
+    "textLength": 401,
+    "textPreview": "채용정보에 잘못된 내용이 있을 경우 문의 해주세요. 모집요강 모집분야 중소기업 전반 경영컨설팅 및 투자유치 상담사 모집인원 ○ 명 고용형태 위촉직/개인사업자 (협의) 직급/직책 급여 연봉 5,000~15,000만원 (면접 후 결정) 근무시간 주5일(월~금) 09:00 ~ 18:00 근무지주소 서울 마포구 마포대로 136 (공덕동, 지방재정회관) 2층 지도보기 인근지하철 지원자격 경력 경력 학력 초대졸이상 스킬 , 전문직 핵심역량 성장지향성 , 성실성 , 성취지향성 , 창의성 , 협동심 우대조건 기본우대 관련 학과 전공자, 관련 자격증 보유자 이 기업과 나의 적합도 체크 핵심 역량 회사에서 중요하게 생각하는 역량과 가치가 나와 맞는지 알아보기 회사 나 지금 로그인 하면 나와 회사의 적합도를 비교해볼 수 있어요.",
+    "outerHTMLPreview": "<div class=\"ml-auto w-[960px] [grid-area:content]\"><div data-sentry-component=\"IframeViewer\" data-sentry-source-file=\"index.tsx\" id=\"details-section\"><div class=\"flex flex-col\" id=\"parent-frame\"><div class=\"flex items-center gap-[4px] mt-0\" data-sentry-component=\"IconDescription\" data-sentry-source-file=\"index.tsx\"><i class=\"recruit-icon recruit-icon--system_tooltip3\" data-sentry-element=\"Icon\" data-sentry-source-file=\"index.tsx\" style=\"position:relative;color:#d2d2d2;font-size:24px\"></i><span class=\"text-[#6a6a6a] text-[13px] leading-[20px]\">채용정보에 잘못된 내용이 있을 경우<!-- --> <button class=\"\" style=\"background:none;border:none;padding:0;cursor:pointer;opacity:1\" type=\"button\"><span class=\"font-normal underline text-[13px] leading-[20px] text-[#6a6a6a]\">문의</span></button>해주세요.</span></div></div></div><div class=\"mt-[60px]\" data-sentry-component=\"RecruitmentGuidelines\" data-sentry-source-file=\"index.tsx\"><div class=\"flex flex-col gap-[12px]\"><span class=\"font-bold text-[#222222] text-[24px] leading-[32px] tracking-[-0.5px]\">모집요강</span><div class=\"flex flex-col\"><div data-sentry-component=\"RecruitmentField\" data-sentry-source-file=\"index.tsx\" style=\"background-color:#F7F7F7;border:1px solid #E8E8E8;border-radius:8px 8px 0px 0px;padding:24px 32px\"><div class=\"flex items-start gap-[20px]\"><div class=\"min-w-[80px]\"><span>모집분야</span></div><div class=\"flex items-start gap-[8px]\"><span class=\"flex-1 text-[#222222] line-clamp-1 overflow-hidden text-ellipsis\">중소기업 전반 경영컨설팅 및 투자유치 상담사</span></"
+  }
+]

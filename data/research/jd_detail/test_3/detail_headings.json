@@ -1,0 +1,12 @@
+[
+  {
+    "tag": "H2",
+    "text": "러브지나",
+    "className": "font-medium text-[#222222] text-[20px] leading-[28px] tracking-[-0.5px] underline"
+  },
+  {
+    "tag": "H1",
+    "text": "(SNS) 인스타그램 콘텐츠 기획자 채용 [합격축하금]",
+    "className": "font-bold text-[#222222] text-[28px] leading-[38px] tracking-[-0.5px] transition-[font-size] duration-200 ease-in-out break-words"
+  }
+]

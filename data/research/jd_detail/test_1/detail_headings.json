@@ -1,0 +1,12 @@
+[
+  {
+    "tag": "H2",
+    "text": "중소기업경제연구소",
+    "className": "font-medium text-[#222222] text-[20px] leading-[28px] tracking-[-0.5px] underline"
+  },
+  {
+    "tag": "H1",
+    "text": "중소기업 자금조달 (금융컨설팅 및 투자관련) 컨설턴트 채용 공고 (마포 공",
+    "className": "font-bold text-[#222222] text-[28px] leading-[38px] tracking-[-0.5px] transition-[font-size] duration-200 ease-in-out break-words"
+  }
+]

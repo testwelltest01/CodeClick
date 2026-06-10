@@ -9,6 +9,7 @@ from backend.config import (
 
 
 def init_qdrant_collection():
+    # Qdrant 서버에 연결합니다.
     client = QdrantClient(url=QDRANT_URL)
 
     # 컬렉션 설정 변경 시 기존 컬렉션 재구축이 필요하므로 삭제를 시도합니다.

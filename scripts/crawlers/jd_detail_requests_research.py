@@ -5,15 +5,16 @@ from pathlib import Path
 import csv
 import re
 import time
+import random
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR = PROJECT_ROOT / "data" / "raw"
-OUTPUT_CSV = DATA_DIR / "jobkorea_jd_details_requests.csv"
+OUTPUT_CSV = DATA_DIR / "jobkorea_jd_details_requests(1).csv"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 # 임시 데이터로 직접 지정된 범위의 공고 URL 생성
 jobs = []
-for gi_no in range(49100000, 49300000):
+for gi_no in range(49100001, 49150000):
     jobs.append({
         "list_title": f"임시 공고 ({gi_no})",
         "url": f"https://www.jobkorea.co.kr/Recruit/GI_Read/{gi_no}"
@@ -33,12 +34,21 @@ fieldnames = [
     "error",
 ]
 
-# JobKorea 기본 User-Agent 차단 방지
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-    "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
-}
+# JobKorea 기본 User-Agent 차단 방지 (임의의 버전 숫자를 조합하여 헤더 생성)
+def get_random_headers():
+    chrome_version = f"{random.randint(110, 126)}.0.{random.randint(1000, 5999)}.{random.randint(10, 199)}"
+    # Windows와 Mac 중 랜덤으로 User-Agent 생성
+    if random.choice([True, False]):
+        user_agent = f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{chrome_version} Safari/537.36"
+    else:
+        mac_ver = f"10_15_{random.randint(5, 7)}"
+        user_agent = f"Mozilla/5.0 (Macintosh; Intel Mac OS X {mac_ver}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{chrome_version} Safari/537.36"
+        
+    return {
+        "User-Agent": user_agent,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+    }
 
 def get_output_path(base_path: Path, part: int) -> Path:
     return base_path.parent / f"{base_path.stem}_{part}{base_path.suffix}"
@@ -64,7 +74,8 @@ try:
         print(job["url"])
 
         try:
-            response = requests.get(job["url"], headers=headers, timeout=15)
+            current_headers = get_random_headers()
+            response = requests.get(job["url"], headers=current_headers, timeout=15)
             if response.status_code != 200:
                 raise Exception(f"HTTP status code {response.status_code}")
 
@@ -93,7 +104,7 @@ try:
                     oem_code = oem_match.group(1) if oem_match else "C1"
                     iframe_url = f"https://www.jobkorea.co.kr/Recruit/GI_Read_Comt_Ifrm?Oem_Code={oem_code}&Gno={gno}&isHiringCenter=false&hideMapView=false"
                     
-                    iframe_res = requests.get(iframe_url, headers=headers, timeout=15)
+                    iframe_res = requests.get(iframe_url, headers=current_headers, timeout=15)
                     if iframe_res.status_code == 200:
                         iframe_soup = BeautifulSoup(iframe_res.text, "html.parser")
                         iframe_body = iframe_soup.body if iframe_soup.body else iframe_soup
@@ -163,8 +174,8 @@ try:
 
             print("[FAIL]", e)
 
-        # 서버 과부하 방지 및 차단 예방용 딜레이
-        time.sleep(1.0)
+        # 서버 과부하 방지 및 차단 예방용 딜레이 (1초 미만의 무작위 값)
+        time.sleep(random.uniform(0.1, 0.5))
 finally:
     if f:
         f.close()

@@ -6,3 +6,6 @@ __pycache__/
 
 postgres_data/
 qdrant_storage/
+
+# Crawled & Processed Data
+data/
